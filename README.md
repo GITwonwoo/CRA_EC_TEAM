@@ -9,19 +9,19 @@
 이 프로젝트는 어떤 문제를 해결하기 위해 만들어졌으며, 주요 기능은 다음과 같습니다.
 
 - 기능 1: 사용자에게 편리한 기능 제공 ✨
-- 기능 2: 실시간 데이터 제공 📡
+- 기능 2: 실시간 데이터 제공(API: a,b,c 등 사용) 📡
 - 기능 3: 간편한 UI와 UX 제공 🖥️
 ### 📂 기술 스택
--프론트엔드: React ⚛️, Bootstrap 🎨
--백엔드: Node.js 🌐, php 🚀
+- 프론트엔드: React ⚛️, Bootstrap 🎨, Node.js 🌐
+- 백엔드: Sql 🚀
 
 ### 👥 팀원 소개
-| 이름          | 역할       | GitHub                                      | 특기       | 한 줄 소개                    |
+| 이름          | 포지션       | GitHub                                      | 업무       | 한 줄 소개                    |
 |--------------|------------|---------------------------------------------|------------|-------------------------------|
-| 🎨 **권채령** | 디자이너       | [GitHub](https://github.com/username1)      | UI 디자인 🎨    | 새로운 아이디어에 도전하는 디자이너 |
-| 🛠️ **조원우** | 메인 엔지니어     | [GitHub](https://github.com/username2)      | 개발 🔧 | 효율적인 코드와 문제 해결에 집중 |
-| 📊 **노동민** | 기획자 | [GitHub](https://github.com/username3)      | 기획 💡| 데이터를 기반하여 획기적인 기획 집중  |
-| 🎨 **최윤서** | 디자이너 | [GitHub](https://github.com/username4)      | UI 디자인 🎨 | 사용자 중심의 디자인을 지향  |
+| 🎨 **권채령** | 디자이너       | [therese58](https://github.com/therese58)      | UI 디자인 🎨    | 새로운 아이디어에 도전하는 디자이너 |
+| 🛠️ **조원우** | 메인 엔지니어     | [GITwonwoo](https://github.com/GITwonwoo)      | 개발 🔧 | 효율적인 코드와 문제 해결에 집중 |
+| 📊 **노동민** | 기획자 | [dmin0308](https://github.com/dmin0308)      | 기획 💡| 데이터를 기반하여 획기적인 기획 집중  |
+| 🎨 **최윤서** | 디자이너 | [chae0924](https://github.com/chae0924)      | UI 디자인 🎨 | 사용자 중심의 디자인을 지향  |
 
 ### 🛠️ 프로젝트 실행 방법
 bash
@@ -29,7 +29,7 @@ bash
 # 1. 저장소 클론
 git clone https://github.com/username/repository.git
 
-# 2. 패키지 설치
+# 2. 플러그인 목록
 npm install
 
 # 3. 개발 서버 실행
