@@ -24,7 +24,7 @@
 | 🎨 **최윤서** | 디자이너 | [chae0924](https://github.com/chae0924)      | UI 디자인 🎨 | 사용자 중심의 디자인을 지향  |
 
 ### 🛠️ 프로젝트 실행 방법
-bash
+bashd
 코드 복사
 # 1. 저장소 클론
 git clone https://github.com/username/repository.git
