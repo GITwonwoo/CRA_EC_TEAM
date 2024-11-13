@@ -1,4 +1,4 @@
-# 🚀 해율 Project (Project Haeyul)
+# 🚀 해율 Project (Project Heyul)
 ### Intro: 
 - 🌱 친환경 국내산 수산물 이너뷰티 브랜드 
 - 주요 기능: 유저 관리, 실시간 업데이트, 대시보드 📊, 데이터 분석 📈 등
@@ -22,6 +22,10 @@
 | 🛠️ **조원우** | 메인 엔지니어     | [GITwonwoo](https://github.com/GITwonwoo)      | 개발 🔧 | 효율적인 코드와 문제 해결에 집중 |
 | 📊 **노동민** | 기획자 | [dmin0308](https://github.com/dmin0308)      | 기획 💡| 데이터를 기반하여 획기적인 기획 집중  |
 | 🎨 **최윤서** | 디자이너 | [chae0924](https://github.com/chae0924)      | UI 디자인 🎨 | 사용자 중심의 디자인을 지향  |
+
+### 💻 작업 링크 
+피그마: https://is.gd/11lLTC
+피그잼: https://is.gd/UK0ZXv
 
 ### 🛠️ 프로젝트 실행 방법
 bashd
